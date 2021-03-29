@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="User__UserWrapper-wp9prl-0 iVryWn"
+  >
+    <img
+      class="User__StyledUserAvatar-wp9prl-1 XEEzo"
+      src="imgUrl"
+    />
+    <div>
+      <h3>
+        name
+      </h3>
+    </div>
+  </div>
+</DocumentFragment>
+`;

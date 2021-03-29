@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repo component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Repo__RepoWrapper-qjj4xm-0 kAAwGn"
+  >
+    <div>
+      <h3>
+        name
+      </h3>
+      <p>
+        Star: 0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

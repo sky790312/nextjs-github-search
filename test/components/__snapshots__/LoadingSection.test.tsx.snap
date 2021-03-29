@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoadingSection component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="GlobalStyles__TextCenterContainer-sc-1m5drgn-1 LoadingSection__LoadingSectionWrapper-ekcqrm-0 kwExyG dzDQFW"
+  >
+    <button
+      class="LoadingSection__Button-ekcqrm-1 iPqPCv"
+    >
+      Load More
+    </button>
+  </div>
+</DocumentFragment>
+`;

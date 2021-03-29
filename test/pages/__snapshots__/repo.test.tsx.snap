@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repo page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="GlobalStyles__Container-sc-1m5drgn-0 frTxMm"
+  >
+    <h1 />
+    <span
+      class="Spinner__StyledSpinner-sc-12ylinb-0 berLTj"
+    />
+    <div
+      class="GlobalStyles__ListContainer-sc-1m5drgn-2 lDTWr"
+    />
+    <hr />
+    <div />
+  </div>
+</DocumentFragment>
+`;
